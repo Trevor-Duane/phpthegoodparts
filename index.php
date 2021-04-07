@@ -50,7 +50,10 @@ switch($_GET["action"]) {
 </HEAD>
 <BODY>
 <div id="shopping-cart">
-<div class="txt-heading">Shopping Cart</div>
+<div class="txt-heading">
+<h3>Shopping Cart</h3>
+
+</div>
 
 <a id="btnEmpty" href="index.php?action=empty">Empty Cart</a>
 <?php

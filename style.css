@@ -25,6 +25,10 @@ body {
 	color: #211a1a;
 	border-bottom: 1px solid #E0E0E0;
 	overflow: auto;
+	background-color: purple;
+}
+.nav{
+	background-color: purple;
 }
 
 #btnEmpty {
